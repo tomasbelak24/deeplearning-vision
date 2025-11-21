@@ -1,6 +1,7 @@
 Where is what:
 
 /results : here are json files with train loss, val loss and val accuracy of everything i trained
+
 /models : here are saved models which I wanted to evaluate on test set
 
 First task:
