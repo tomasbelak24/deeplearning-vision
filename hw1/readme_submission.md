@@ -1,4 +1,6 @@
-Where is what:
+### Where is what:
+
+report.pdf : report to the homework
 
 /results : here are json files with train loss, val loss and val accuracy of everything i trained
 
